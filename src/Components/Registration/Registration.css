@@ -1,0 +1,15 @@
+.registration-card {
+    text-align: left;
+    width : 40%;
+    border : 2px solid gray;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px gray;
+}
+@media screen and (max-width: 900px) {
+    .registration-card{
+        width : 90%;
+    }
+}
+.register-btn{
+    width: 75% ;
+}
